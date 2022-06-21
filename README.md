@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Piko890
+- 👋 Hi, I’m PiCreative Techy
 - 👀 I’m interested in coding and being a top rated in the community of great minds...
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my future projects 
